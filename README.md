@@ -1,1 +1,1 @@
-This is the code for tribute page created by using HTML and CSS. I have showcased the life achievements of Oskar Schindler.
+A tribute page for Oskar Schindler created using HTML and CSS.
