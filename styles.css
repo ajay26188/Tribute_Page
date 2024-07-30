@@ -1,0 +1,64 @@
+html {
+    border: 15px solid white;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 16px;
+    background-color: #8080803b;
+    
+}
+
+
+#title {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.title-caption {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+#img-div {
+    background-color: #fff; /* Change background color */
+    border: 10px solid #fff; /* Change border color */
+    text-align: center;
+    padding: 20px; /* Increase padding */
+    border-radius: 10px; /* Add border radius */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow for depth */
+}
+
+/*
+#img-div {
+    background-color: white;
+    border: 10px solid white;
+    text-align: center; 
+}
+*/
+
+#image {
+    max-width: 100%;
+    /*max-width: 100%;*/
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+#tribute-info {
+    font-size: 18px;
+    margin: 0 auto;
+}
+
+li {
+    margin: 10px auto;
+}
+
+
+.link {
+    text-align: center;
+    margin: 20px;
+}
